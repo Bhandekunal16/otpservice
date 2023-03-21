@@ -10,7 +10,7 @@ async function bootstrap() {
     {
       transport: Transport.TCP,
       options: {
-        port: 3010
+        port: 3010,
       },
     },
   );
